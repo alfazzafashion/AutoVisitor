@@ -1,0 +1,15 @@
+{
+  "config": [
+    {
+      "count": 100000,
+      "time_interval": 10,
+      "url": "https://alfazza967.blogspot.com"
+    },
+    {
+      "count": 100000,
+      "time_interval": 20,
+      "url": "https://alfazza967.blogspot.com"
+    }
+  ],
+  "weekend_rest": true
+}
