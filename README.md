@@ -1,5 +1,5 @@
-# AutoVisitor
+# AutoVisitor 25d0185 
 <<<<<<< 
-Auto Visitor Web Work 100%
+Auto Website Visitor Work 100%
 =======
->>>>>>> 25d0185 
+>>>>>>> WORKING ON WINDOWS XP/VISTA/7/8/9/10/11 <<<<<<<
