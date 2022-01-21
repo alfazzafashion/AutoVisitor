@@ -7,7 +7,7 @@ try:
   with open("urlbacklinks.json", "r") as file:
     data = json.loads(file.read())
     for backlink in data:
-      url = backlink['url'].replace("h4link.duckdns.org", site)
+      url = backlink['url'].replace("alfazza967.blogspot.com", site)
       try:
         r = requests.get(url).status_code
       except KeyboardInterrupt:
