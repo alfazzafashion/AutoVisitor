@@ -1,0 +1,13 @@
+2022/01/25-07:41:24.768 13424 Reusing MANIFEST C:\Users\user\AppData\Roaming\10KHits\Service Worker\Database/MANIFEST-000001
+2022/01/25-07:41:24.787 13424 Recovering log #10
+2022/01/25-07:41:24.788 13424 Level-0 table #12: started
+2022/01/25-07:41:24.829 13424 Level-0 table #12: 1177 bytes OK
+2022/01/25-07:41:24.912 13424 Delete type=0 #10
+2022/01/25-07:41:24.913 20460 Compacting 4@0 + 0@1 files
+2022/01/25-07:41:25.125 20460 Generated table #14: 7 keys, 330 bytes
+2022/01/25-07:41:25.125 20460 Compacted 4@0 + 0@1 files => 330 bytes
+2022/01/25-07:41:25.209 20460 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/01/25-07:41:25.209 20460 Delete type=2 #3
+2022/01/25-07:41:25.210 20460 Delete type=2 #6
+2022/01/25-07:41:25.210 20460 Delete type=2 #9
+2022/01/25-07:41:25.210 20460 Delete type=2 #12

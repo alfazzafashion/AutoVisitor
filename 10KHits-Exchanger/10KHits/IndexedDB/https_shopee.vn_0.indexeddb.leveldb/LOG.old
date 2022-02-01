@@ -1,0 +1,11 @@
+2022/01/24-12:16:28.415 24904 Reusing MANIFEST C:\Users\user\AppData\Roaming\10KHits\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/24-12:16:28.450 24904 Recovering log #6
+2022/01/24-12:16:28.451 24904 Reusing old log C:\Users\user\AppData\Roaming\10KHits\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000006.log 
+2022/01/24-12:16:30.432 24904 Current memtable full; waiting...
+2022/01/24-12:16:30.432 13760 Level-0 table #10: started
+2022/01/24-12:16:30.466 13760 Level-0 table #10: 5624 bytes OK
+2022/01/24-12:16:30.520 13760 Delete type=0 #6
+2022/01/24-12:16:30.521 13760 Level-0 table #12: started
+2022/01/24-12:16:30.525 13760 Level-0 table #12: 0 bytes OK
+2022/01/24-12:16:30.635 13760 Delete type=0 #9
+2022/01/24-12:16:30.699 13760 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

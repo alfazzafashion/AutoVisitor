@@ -1,0 +1,17 @@
+2022/01/24-20:22:52.938 25828 Reusing MANIFEST C:\Users\user\AppData\Roaming\10KHits\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/24-20:22:53.063 25828 Recovering log #11
+2022/01/24-20:22:53.063 25828 Reusing old log C:\Users\user\AppData\Roaming\10KHits\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000011.log 
+2022/01/24-20:22:53.679 25828 Current memtable full; waiting...
+2022/01/24-20:22:53.679 20944 Level-0 table #15: started
+2022/01/24-20:22:53.706 20944 Level-0 table #15: 3440 bytes OK
+2022/01/24-20:22:53.745 20944 Delete type=0 #11
+2022/01/24-20:22:53.746 20944 Level-0 table #17: started
+2022/01/24-20:22:53.753 20944 Level-0 table #17: 0 bytes OK
+2022/01/24-20:22:53.806 20944 Delete type=0 #14
+2022/01/24-20:22:53.806 20944 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 142 : 1
+2022/01/24-20:22:53.807 20944 Compacting 1@0 + 1@1 files
+2022/01/24-20:22:53.856 20944 Generated table #18: 58 keys, 3891 bytes
+2022/01/24-20:22:53.856 20944 Compacted 1@0 + 1@1 files => 3891 bytes
+2022/01/24-20:22:53.907 20944 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/24-20:22:53.908 20944 Delete type=2 #15
+2022/01/24-20:22:53.908 20944 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 142 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
